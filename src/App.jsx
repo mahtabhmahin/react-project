@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      Mahtab hosssain mahin
+      My new project
     </div>
   )
 }
